@@ -1,6 +1,6 @@
 ---
 title: Why I’m Blogging (and Why Jekyll)
-date: 2025-05-30
+date: 2025-06-03
 categories: [blogs,meta]
 tags: [blogging, ruby, jekyll, chirpy]
 ---
